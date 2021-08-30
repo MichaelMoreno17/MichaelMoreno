@@ -1,0 +1,702 @@
+﻿Reseller Key,Business Type,Reseller Name,Order Month,Product Line,Annual Sales,Min Payment Amount,Annual Revenue,City
+1,Value Added Reseller,A Bike Store,May,Road,300000.00,NULL,30000.00,Seattle
+2,Specialty Bike Shop,Progressive Sports,May,Mountain,800000.00,NULL,80000.00,Renton
+3,Warehouse,Advanced Bike Components,June,Road,1500000.00,NULL,150000.00,Irving
+4,Value Added Reseller,Modular Cycle Systems,April,Road,300000.00,600.00,30000.00,Austin
+5,Specialty Bike Shop,Metropolitan Sports Supply,June,Road,800000.00,NULL,80000.00,Fremont
+6,Warehouse,Aerobic Exercise Company,June,Road,1500000.00,NULL,150000.00,Camarillo
+7,Value Added Reseller,Associated Bikes,April,Mountain,300000.00,NULL,30000.00,Salt Lake City
+8,Specialty Bike Shop,Exemplary Cycles,May,Touring,800000.00,600.00,80000.00,Miami
+9,Warehouse,Tandem Bicycle Store,May,Mountain,1500000.00,1000.00,150000.00,Millington
+10,Value Added Reseller,Rural Cycle Emporium,June,Mountain,800000.00,NULL,80000.00,Burnaby
+11,Specialty Bike Shop,Sharp Bikes,May,Mountain,800000.00,NULL,80000.00,Toronto
+12,Warehouse,Bikes and Motorbikes,May,Road,1500000.00,NULL,150000.00,Toronto
+13,Value Added Reseller,Country Parts Shop,NULL,Road,800000.00,NULL,80000.00,Les Ulis
+14,Specialty Bike Shop,Bicycle Warehouse Inc.,June,Mountain,1000000.00,NULL,100000.00,Frankfurt am Main
+15,Warehouse,Budget Toy Store,June,Mountain,3000000.00,600.00,300000.00,Lavender Bay
+16,Value Added Reseller,Bulk Discount Store,June,Road,800000.00,NULL,80000.00,London
+17,Specialty Bike Shop,Trusted Catalog Store,April,Mountain,1000000.00,NULL,100000.00,Newport News
+18,Warehouse,Catalog Store,May,Mountain,3000000.00,NULL,300000.00,Zeeland
+19,Value Added Reseller,Center Cycle Shop,April,Road,1000000.00,600.00,100000.00,Bothell
+20,Specialty Bike Shop,Central Discount Store,June,Mountain,1000000.00,600.00,100000.00,Kent
+21,Warehouse,Chic Department Stores,June,Mountain,3000000.00,NULL,300000.00,Irving
+22,Value Added Reseller,Travel Systems,May,Road,800000.00,NULL,80000.00,North Sioux City
+23,Specialty Bike Shop,Bike World,June,Mountain,1500000.00,NULL,150000.00,San Ramon
+24,Warehouse,Eastside Department Store,June,Road,3000000.00,NULL,300000.00,Union City
+25,Value Added Reseller,Coalition Bike Company,June,Mountain,800000.00,NULL,80000.00,El Segundo
+26,Specialty Bike Shop,Stylish Department Stores,June,Road,1500000.00,600.00,150000.00,Miami
+27,Warehouse,Sports Sales and Rental,April,Mountain,3000000.00,NULL,300000.00,Millington
+28,Value Added Reseller,Commuter Bicycle Store,May,Touring,800000.00,NULL,80000.00,Toronto
+29,Specialty Bike Shop,Cross-Country Riding Supplies,May,Mountain,1500000.00,NULL,150000.00,Chalk Riber
+30,Warehouse,Cycle Merchants,June,Road,3000000.00,600.00,300000.00,Quebec
+31,Value Added Reseller,Wheels Inc.,May,Road,800000.00,200.00,80000.00,Paris
+32,Specialty Bike Shop,Precision Gears Inc.,NULL,Road,1500000.00,NULL,150000.00,Stuttgart
+33,Warehouse,Global Sports Outlet,June,Mountain,3000000.00,NULL,300000.00,Lavender Bay
+34,Value Added Reseller,Cycles Wholesaler & Mfg.,April,Touring,800000.00,NULL,80000.00,Warrington
+35,Specialty Bike Shop,Economic Parts Supply,NULL,Road,1500000.00,NULL,150000.00,West Kingston
+36,Warehouse,Exotic Bikes,May,Road,3000000.00,NULL,300000.00,South Bend
+37,Value Added Reseller,Two Bike Shops,June,Road,800000.00,600.00,80000.00,Puyallup
+38,Specialty Bike Shop,Finer Mart,June,Touring,1500000.00,NULL,150000.00,Billings
+39,Warehouse,Fitness Hotel,June,Road,3000000.00,NULL,300000.00,Edina
+40,Value Added Reseller,Journey Sporting Goods,May,Mountain,800000.00,NULL,80000.00,Laredo
+41,Specialty Bike Shop,Distant Inn,April,Road,1500000.00,600.00,150000.00,Milpitas
+42,Warehouse,Healthy Activity Store,NULL,Mountain,3000000.00,1000.00,300000.00,Newport Beach
+43,Value Added Reseller,Frugal Bike Shop,May,Mountain,800000.00,NULL,80000.00,Salt Lake City
+44,Specialty Bike Shop,Games and Sport Supply Company,June,Touring,1500000.00,NULL,150000.00,Huntsville
+45,Warehouse,Every Bike Shop,May,Road,3000000.00,NULL,300000.00,La Vergne
+46,Value Added Reseller,Gear-Shift Bikes Limited,December,Road,800000.00,NULL,80000.00,Calgary
+47,Specialty Bike Shop,Greater Bike Store,June,Mountain,1500000.00,NULL,150000.00,Toronto
+48,Warehouse,Grand Industries,June,Touring,3000000.00,600.00,300000.00,Montreal
+49,Value Added Reseller,Neighborhood Bicycle Storehouse,June,Touring,800000.00,NULL,80000.00,Roncq
+50,Specialty Bike Shop,Hometown Riding Supplies,October,Mountain,1500000.00,NULL,150000.00,Berlin
+51,Warehouse,Ideal Components,June,Touring,3000000.00,NULL,300000.00,Cloverdale
+52,Value Added Reseller,Instruments and Parts Company,June,Touring,300000.00,600.00,30000.00,Gloucestershire
+53,Specialty Bike Shop,Incomparable Bicycle Store,June,Touring,1500000.00,600.00,150000.00,Norwood
+54,Warehouse,Larger Cycle Shop,June,Road,3000000.00,NULL,300000.00,Melville
+55,Value Added Reseller,Kickstands and Accessories Company,June,Touring,300000.00,NULL,30000.00,Medford
+56,Specialty Bike Shop,Latest Accessories Sales,May,Road,1500000.00,NULL,150000.00,Portland
+57,Warehouse,Leading Sales & Repair,June,Road,3000000.00,NULL,300000.00,West Chicago
+58,Value Added Reseller,Largest Bike Store,May,Road,300000.00,NULL,30000.00,Chicago
+59,Specialty Bike Shop,Locks Company,June,Touring,1500000.00,600.00,150000.00,Visalia
+60,Warehouse,Main Bicycle Services,NULL,Road,3000000.00,NULL,300000.00,Hayward
+61,Value Added Reseller,Many Bikes Store,June,Mountain,300000.00,NULL,30000.00,Fullerton
+62,Specialty Bike Shop,Manufacturers Inc,May,Road,1500000.00,NULL,150000.00,Nashville
+63,Warehouse,Metro Bike Mart,May,Mountain,3000000.00,600.00,300000.00,Greensboro
+64,Value Added Reseller,Metal Clearing House,May,Touring,300000.00,200.00,30000.00,Toronto
+65,Specialty Bike Shop,Metro Manufacturing,May,Mountain,1500000.00,NULL,150000.00,Weston
+66,Warehouse,Neighborhood Store,May,Road,3000000.00,NULL,300000.00,Burnaby
+67,Value Added Reseller,Self-Contained Cycle Parts Company,June,Road,300000.00,NULL,30000.00,Verrieres Le Buisson
+68,Specialty Bike Shop,North Bike Company,May,Road,1500000.00,NULL,150000.00,Muehlheim
+69,Warehouse,Online Bike Catalog,June,Touring,3000000.00,NULL,300000.00,Lavender Bay
+70,Value Added Reseller,Outdoor Aerobic Systems Company,February,Road,300000.00,600.00,30000.00,London
+71,Specialty Bike Shop,Outdoor Distributors,NULL,Mountain,1500000.00,NULL,150000.00,Farmington
+72,Warehouse,Outdoor Equipment Store,June,Road,3000000.00,NULL,300000.00,Nashua
+73,Value Added Reseller,Outdoor Sports Supply,February,Mountain,300000.00,NULL,30000.00,North Bend
+74,Specialty Bike Shop,Parcel Express Delivery Service,November,Road,1500000.00,600.00,150000.00,Portland
+75,Warehouse,Paint Supply,June,Mountain,3000000.00,1000.00,300000.00,Garland
+76,Value Added Reseller,Out-of-the-Way Hotels,NULL,Mountain,300000.00,NULL,30000.00,Wood Dale
+77,Specialty Bike Shop,Mechanical Products Ltd.,May,Road,1500000.00,NULL,150000.00,San Diego
+78,Warehouse,Preferred Bikes,May,Road,3000000.00,NULL,300000.00,Ontario
+79,Value Added Reseller,Reasonable Bicycle Sales,May,Road,300000.00,NULL,30000.00,Greeley
+80,Specialty Bike Shop,Racks and Security Systems,May,Touring,1500000.00,NULL,150000.00,Sunrise
+81,Warehouse,Rally Day Mall,April,Road,3000000.00,600.00,300000.00,Miami
+82,Value Added Reseller,Refined Department Stores,NULL,Road,300000.00,NULL,30000.00,Vancouver
+83,Specialty Bike Shop,Requisite Part Supply,April,Road,1500000.00,NULL,150000.00,Ottawa
+84,Warehouse,Rewarding Activities Company,May,Road,3000000.00,NULL,300000.00,Etobicoke
+85,Value Added Reseller,Roadway Bicycle Supply,May,Touring,800000.00,600.00,80000.00,Courbevoie
+86,Specialty Bike Shop,Bicycle Exporters,April,Touring,1500000.00,600.00,150000.00,Essen
+87,Warehouse,Rich Department Store,May,Touring,3000000.00,NULL,300000.00,Lane Cove
+88,Value Added Reseller,Closest Bicycle Store,June,Mountain,800000.00,NULL,80000.00,Milton Keynes
+89,Specialty Bike Shop,Riverside Company,May,Road,1500000.00,NULL,150000.00,Oberlin
+90,Warehouse,Sales and Supply Company,June,Road,3000000.00,NULL,300000.00,Chantilly
+91,Value Added Reseller,Scooters and Bikes Store,June,Road,800000.00,NULL,80000.00,Beaverton
+92,Specialty Bike Shop,Sports Commodities,June,Mountain,1500000.00,600.00,150000.00,Woodinville
+93,Warehouse,Stationary Bikes and Stands,June,Road,3000000.00,NULL,300000.00,Round Rock
+94,Value Added Reseller,Specialty Sports Store,April,Mountain,800000.00,NULL,80000.00,Fort Worth
+95,Specialty Bike Shop,Rural Department Store,April,Touring,1500000.00,NULL,150000.00,Pleasanton
+96,Warehouse,More Bikes!,June,Road,3000000.00,600.00,300000.00,Santa Ana
+97,Value Added Reseller,Mountain Bike Center,May,Road,800000.00,200.00,80000.00,Newark
+98,Specialty Bike Shop,Superlative Bikes,June,Mountain,1500000.00,NULL,150000.00,Miami
+99,Warehouse,Unified Sports Company,May,Mountain,3000000.00,NULL,300000.00,Sarasota
+100,Value Added Reseller,Up-To-Date Sports,May,Mountain,1000000.00,NULL,100000.00,Markham
+101,Specialty Bike Shop,Urban Sports Emporium,May,Road,1000000.00,NULL,100000.00,Toronto
+102,Warehouse,National Manufacturing,May,Road,3000000.00,NULL,300000.00,Toronto
+103,Value Added Reseller,The Bike Outlet,May,Touring,800000.00,600.00,80000.00,Pantin
+104,Specialty Bike Shop,Very Best Sports Supply,June,Road,1000000.00,NULL,100000.00,Duesseldorf
+105,Warehouse,Volume Bike Sellers,NULL,Mountain,3000000.00,NULL,300000.00,Alexandria
+106,Value Added Reseller,West Side Mart,June,Touring,800000.00,NULL,80000.00,Wokingham
+107,Specialty Bike Shop,Wholesale Bikes,May,Road,1000000.00,600.00,100000.00,Randolph
+108,Warehouse,Wheelsets Storehouse,May,Road,3000000.00,1000.00,300000.00,Kittery
+109,Value Added Reseller,Travel Sports,June,Mountain,800000.00,NULL,80000.00,Issaquah
+110,Value Added Reseller,Vintage Sport Boutique,April,Touring,300000.00,NULL,30000.00,Idaho Falls
+111,Specialty Bike Shop,Westside Cycle Store,December,Road,800000.00,NULL,80000.00,Elgin
+112,Warehouse,Town Industries,June,Touring,1500000.00,NULL,150000.00,Dallas
+113,Value Added Reseller,Trendy Department Stores,June,Touring,300000.00,NULL,30000.00,Fontana
+114,Specialty Bike Shop,Two Wheels Cycle Store,June,Road,800000.00,600.00,80000.00,San Francisco
+115,Warehouse,Security Racks and Locks Wholesalers,May,Mountain,1500000.00,NULL,150000.00,Sparks
+116,Value Added Reseller,Retirement Activities Association,March,Road,300000.00,NULL,30000.00,Atlanta
+117,Specialty Bike Shop,Pedals Warehouse,April,Road,800000.00,NULL,80000.00,Suwanee
+118,Warehouse,Rapid Bikes,June,Mountain,1500000.00,600.00,150000.00,Toronto
+119,Value Added Reseller,Red Bicycle Company,April,Mountain,800000.00,200.00,80000.00,Pnot-Rouge
+120,Specialty Bike Shop,Machines & Cycles Store,April,Touring,800000.00,NULL,80000.00,Montreal
+121,Warehouse,Metro Sports Equipment,June,Mountain,1500000.00,NULL,150000.00,Saint Ouen
+122,Value Added Reseller,Off-Price Bike Center,June,Touring,800000.00,NULL,80000.00,Berlin
+123,Specialty Bike Shop,First Supplies,April,Touring,1000000.00,NULL,100000.00,North Ryde
+124,Warehouse,Nearby Sporting Goods,May,Road,3000000.00,NULL,300000.00,W. York
+125,Value Added Reseller,Immediate Repair Shop,April,Mountain,800000.00,600.00,80000.00,Stamford
+126,Specialty Bike Shop,Famous Bike Sales and Service,June,Road,1000000.00,NULL,100000.00,Endicott
+127,Warehouse,Front Sporting Goods,May,Mountain,3000000.00,NULL,300000.00,Redmond
+128,Value Added Reseller,Demand Distributors,June,Road,1000000.00,NULL,100000.00,Wenatchee
+129,Specialty Bike Shop,Discount Bicycle Specialists,November,Road,1000000.00,600.00,100000.00,Wood Dale
+130,Warehouse,Elite Bikes,June,Road,3000000.00,1000.00,300000.00,Dallas
+131,Value Added Reseller,Eighth Bike Store,May,Touring,800000.00,NULL,80000.00,El Segundo
+132,Specialty Bike Shop,Another Sporting Goods Company,NULL,Road,1500000.00,NULL,150000.00,Westminster
+133,Warehouse,Commercial Sporting Goods,June,Mountain,3000000.00,NULL,300000.00,Modesto
+134,Value Added Reseller,Budget Bike Company,May,Road,800000.00,NULL,80000.00,Millington
+135,Specialty Bike Shop,Wonderful Bikes Inc.,May,Road,1500000.00,NULL,150000.00,Memphis
+136,Warehouse,Wholesale Parts,May,Road,3000000.00,600.00,300000.00,Calgary
+137,Value Added Reseller,Transportation Options,February,Mountain,800000.00,NULL,80000.00,Calgary
+138,Specialty Bike Shop,South Bike Company,May,Touring,1500000.00,NULL,150000.00,Vancouver
+139,Warehouse,Steel Inc.,April,Road,3000000.00,NULL,300000.00,Colombes
+140,Value Added Reseller,Teen Discount Store,NULL,Mountain,800000.00,600.00,80000.00,Bonn
+141,Specialty Bike Shop,Rental Gallery,May,Mountain,1500000.00,600.00,150000.00,Lavender Bay
+142,Warehouse,Riding Cycles,June,Road,3000000.00,NULL,300000.00,Liverpool
+143,Value Added Reseller,Modern Bike Store,March,Road,800000.00,NULL,80000.00,East Haven
+144,Specialty Bike Shop,Only Bikes and Accessories,May,Mountain,1500000.00,NULL,150000.00,New York
+145,Warehouse,Raw Materials Inc,May,Mountain,3000000.00,NULL,300000.00,Redmond
+146,Value Added Reseller,Latest Sports Equipment,April,Mountain,800000.00,NULL,80000.00,Seattle
+147,Specialty Bike Shop,Local Hardware Factory,June,Road,1500000.00,600.00,150000.00,Chicago
+148,Warehouse,Lots of Bikes Storehouse,May,Mountain,3000000.00,NULL,300000.00,Carol Stream
+149,Value Added Reseller,Initial Bike Company,June,Mountain,800000.00,NULL,80000.00,Westminster
+150,Specialty Bike Shop,Fleet Bikes,May,Mountain,1500000.00,NULL,150000.00,Stockton
+151,Warehouse,Futuristic Bikes,June,Mountain,3000000.00,600.00,300000.00,Culver City
+152,Value Added Reseller,Distance Bikes,May,Road,800000.00,200.00,80000.00,Clarkston
+153,Specialty Bike Shop,Widget Bicycle Specialists,October,Road,1500000.00,NULL,150000.00,Clearwater
+154,Warehouse,Camping and Sports Store,June,Touring,3000000.00,NULL,300000.00,Vancouver
+155,Value Added Reseller,Corner Bicycle Supply,June,Road,800000.00,NULL,80000.00,Toronto
+156,Specialty Bike Shop,Metal Processing Company,June,Road,1500000.00,NULL,150000.00,Montreal
+157,Warehouse,Ace Bicycle Supply,May,Mountain,3000000.00,NULL,300000.00,Paris
+158,Value Added Reseller,Rural Sporting Goods,NULL,Road,800000.00,600.00,80000.00,Bonn
+159,Specialty Bike Shop,Uncompromising Quality Co,May,Touring,1500000.00,NULL,150000.00,North Ryde
+160,Warehouse,Vigorous Sports Store,June,Road,3000000.00,NULL,300000.00,Oxon
+161,Value Added Reseller,Weekend Tours,April,Road,300000.00,NULL,30000.00,Fort Wayne
+162,Specialty Bike Shop,Tire Company,November,Road,1500000.00,600.00,150000.00,Warwick
+163,Warehouse,Sports Merchandise,June,Touring,3000000.00,1000.00,300000.00,Klamath Falls
+164,Value Added Reseller,Suburban Cycle Shop,August,Mountain,300000.00,NULL,30000.00,Troutdale
+165,Specialty Bike Shop,Third Bike Store,June,Road,1500000.00,NULL,150000.00,Dallas
+166,Warehouse,Fitness Toy Store,April,Road,3000000.00,NULL,300000.00,Garland
+167,Value Added Reseller,Farthermost Bike Shop,May,Road,300000.00,NULL,30000.00,Carson
+168,Specialty Bike Shop,Economy Bikes Company,June,Mountain,1500000.00,NULL,150000.00,Bell Gardens
+169,Warehouse,Downtown Hotel,June,Mountain,3000000.00,600.00,300000.00,Fernley
+170,Value Added Reseller,Excellent Riding Supplies,June,Road,300000.00,NULL,30000.00,Memphis
+171,Specialty Bike Shop,Eighty Toy Stores,June,Road,1500000.00,NULL,150000.00,Mcdonough
+172,Warehouse,Certified Sports Supply,June,Mountain,3000000.00,NULL,300000.00,Richmond
+173,Value Added Reseller,Sundry Sporting Goods,June,Road,300000.00,600.00,30000.00,Vancouver
+174,Specialty Bike Shop,Toy Manufacturing Inc,NULL,Road,1500000.00,600.00,150000.00,Surrey
+175,Warehouse,Registered Cycle Store,May,Mountain,3000000.00,NULL,300000.00,Orleans
+176,Value Added Reseller,Rodeway Bike Store,June,Mountain,300000.00,NULL,30000.00,Münster
+177,Specialty Bike Shop,Plastic Products Manufacturers,April,Touring,1500000.00,NULL,150000.00,Hawthorne
+178,Warehouse,Rampart Amusement Company,May,Touring,3000000.00,NULL,300000.00,W. York
+179,Value Added Reseller,Fourth Bike Store,June,Touring,300000.00,NULL,30000.00,Mentor
+180,Specialty Bike Shop,Full-Service Bike Store,June,Mountain,1500000.00,600.00,150000.00,Pontiac
+181,Warehouse,Family Entertainment Center,May,Touring,3000000.00,NULL,300000.00,Clackamas
+182,Value Added Reseller,Another Bicycle Company,June,Touring,300000.00,NULL,30000.00,Milwaukie
+183,Specialty Bike Shop,This Area Sporting Goods,April,Mountain,1500000.00,NULL,150000.00,Chicago
+184,Warehouse,Go-cart and Bike Specialists,April,Mountain,3000000.00,600.00,300000.00,Carrollton
+185,Value Added Reseller,Weekend Bike Tours,July,Road,300000.00,200.00,30000.00,San Jose
+186,Specialty Bike Shop,Thrilling Bike Tours,June,Touring,1500000.00,NULL,150000.00,Santa Fe
+187,Warehouse,Trailblazing Sports,June,Mountain,3000000.00,NULL,300000.00,Cerritos
+188,Value Added Reseller,Variety Bike Outlet,NULL,Mountain,300000.00,NULL,30000.00,Miami
+189,Specialty Bike Shop,Principal Bicycle Supply,NULL,Road,1500000.00,NULL,150000.00,Mobile
+190,Warehouse,Racing Partners,June,Mountain,3000000.00,NULL,300000.00,Calgary
+191,Value Added Reseller,Non-Slip Pedal Company,November,Road,300000.00,600.00,30000.00,Toronto
+192,Specialty Bike Shop,Nuts and Bolts Mfg.,NULL,Mountain,1500000.00,NULL,150000.00,Toronto
+193,Warehouse,Perfect Toys,May,Touring,3000000.00,NULL,300000.00,Colomiers
+194,Value Added Reseller,Mechanical Brake Manufacturers,NULL,Touring,800000.00,NULL,80000.00,München
+195,Specialty Bike Shop,Inexpensive Parts Shop,June,Mountain,1500000.00,600.00,150000.00,North Sydney
+196,Warehouse,Exhibition Showroom,April,Mountain,3000000.00,1000.00,300000.00,Milton Keynes
+197,Value Added Reseller,"Fabrikam Inc., West",June,Mountain,800000.00,NULL,80000.00,Novi
+198,Specialty Bike Shop,Field Trip Inc,August,Road,1500000.00,NULL,150000.00,Southfield
+199,Warehouse,Authorized Bike Sales and Rental,May,Touring,3000000.00,NULL,300000.00,Renton
+200,Value Added Reseller,Basic Bike Company,January,Road,800000.00,NULL,80000.00,Port Orchard
+201,Specialty Bike Shop,Unsurpassed Bikes,June,Touring,1500000.00,NULL,150000.00,Dallas
+202,Warehouse,Two-Seater Bikes,June,Touring,3000000.00,600.00,300000.00,Plano
+203,Value Added Reseller,Separate Parts Corporation,April,Road,800000.00,NULL,80000.00,Monrovia
+204,Specialty Bike Shop,Traction Tire Company,NULL,Mountain,1500000.00,NULL,150000.00,Torrance
+205,Warehouse,Rally Master Company Inc,April,Touring,3000000.00,NULL,300000.00,Chandler
+206,Value Added Reseller,New and Used Bicycles,May,Road,800000.00,600.00,80000.00,Winston-Salem
+207,Specialty Bike Shop,Lubricant and Grease Suppliers,May,Mountain,1500000.00,600.00,150000.00,Rocky Mount
+208,Warehouse,Professional Cyclists,May,Road,3000000.00,NULL,300000.00,Toronto
+209,Value Added Reseller,Purple Bicycle Company,NULL,Road,1000000.00,NULL,100000.00,Scarborough
+210,Specialty Bike Shop,Gasless Cycle Shop,May,Road,1000000.00,NULL,100000.00,Toronto
+211,Warehouse,Sports Products Store,May,Road,3000000.00,NULL,300000.00,Lieusaint
+212,Value Added Reseller,Enterprise Center,June,Touring,800000.00,NULL,80000.00,München
+213,Specialty Bike Shop,Fast Bike Works,May,Touring,1000000.00,600.00,100000.00,South Melbourne
+214,Warehouse,Exclusive Bicycle Mart,May,Road,3000000.00,NULL,300000.00,Lancaster
+215,Value Added Reseller,Eleventh Bike Store,October,Road,800000.00,NULL,80000.00,Westport
+216,Specialty Bike Shop,Painters Bicycle Specialists,June,Road,1000000.00,NULL,100000.00,Waterbury
+217,Warehouse,City Manufacturing,May,Mountain,3000000.00,600.00,300000.00,Shelton
+218,Value Added Reseller,Sure & Reliable Sporting Goods,May,Road,800000.00,200.00,80000.00,Longview
+219,Value Added Reseller,Extras Sporting Goods,March,Road,300000.00,NULL,30000.00,Chicago
+220,Specialty Bike Shop,Best o' Bikes,April,Touring,800000.00,NULL,80000.00,Saint Louis
+221,Warehouse,Bike Dealers Association,April,Road,1500000.00,NULL,150000.00,Las Cruces
+222,Value Added Reseller,Sample Bike Store,September,Road,300000.00,NULL,30000.00,Denver
+223,Specialty Bike Shop,Paints and Solvents Company,June,Touring,800000.00,NULL,80000.00,Englewood
+224,Warehouse,Pedal Systems Company,May,Road,1500000.00,600.00,150000.00,Florence
+225,Value Added Reseller,Optimal Bikes,June,Road,300000.00,NULL,30000.00,Campbellsville
+226,Specialty Bike Shop,Leisure Activities,May,Mountain,800000.00,NULL,80000.00,Hull
+227,Warehouse,"Health Spa, Limited",April,Road,1500000.00,NULL,150000.00,Toronto
+228,Value Added Reseller,Home Town Bike Store,June,Touring,800000.00,600.00,80000.00,Ottawa
+229,Specialty Bike Shop,Instant Cycle Store,April,Road,800000.00,600.00,80000.00,Colombes
+230,Warehouse,Global Bike Retailers,May,Touring,1500000.00,NULL,150000.00,Bad Soden
+231,Value Added Reseller,Helmets and Cycles,April,Touring,800000.00,NULL,80000.00,Lavender Bay
+232,Specialty Bike Shop,Exceptional Cycle Services,April,Touring,1000000.00,NULL,100000.00,Basingstoke Hants
+233,Warehouse,Fashionable Department Stores,May,Mountain,3000000.00,NULL,300000.00,New Hartford
+234,Value Added Reseller,Eastside Sporting Goods,April,Road,800000.00,NULL,80000.00,Indianapolis
+235,Specialty Bike Shop,Certified Bicycle Supply,June,Road,1000000.00,600.00,100000.00,Lynnwood
+236,Warehouse,Closeout Boutique,May,Mountain,3000000.00,NULL,300000.00,Seattle
+237,Value Added Reseller,Client Discount Store,May,Mountain,1000000.00,NULL,100000.00,Chicago
+238,Specialty Bike Shop,A Great Bicycle Company,December,Road,1000000.00,NULL,100000.00,Jefferson City
+239,Warehouse,Bicycle Merchandise Warehouse,June,Road,3000000.00,600.00,300000.00,Santa Monica
+240,Value Added Reseller,Wire Baskets and Parts,May,Road,800000.00,200.00,80000.00,Orange
+241,Specialty Bike Shop,Vale Riding Supplies,April,Touring,1500000.00,NULL,150000.00,Canoga Park
+242,Warehouse,Spoke Manufacturers,July,Road,3000000.00,NULL,300000.00,Miami
+243,Value Added Reseller,Recreation Supplies,June,Mountain,800000.00,NULL,80000.00,Kendall
+244,Specialty Bike Shop,Retail Discount Store,June,Road,1500000.00,NULL,150000.00,Montreal
+245,Warehouse,Leather Seat Factory,April,Mountain,3000000.00,NULL,300000.00,Brossard
+246,Value Added Reseller,Large Bike Shop,January,Mountain,800000.00,600.00,80000.00,Montreal
+247,Specialty Bike Shop,Major Amusement Company,May,Mountain,1500000.00,NULL,150000.00,Orly
+248,Warehouse,Good Bicycle Store,January,Road,3000000.00,NULL,300000.00,Sulzbach Taunus
+249,Value Added Reseller,Helpful Sales and Repair Service,June,Touring,800000.00,NULL,80000.00,Seaford
+250,Specialty Bike Shop,Express Bike Services,May,Mountain,1500000.00,600.00,150000.00,London
+251,Warehouse,Endurance Bikes,May,Road,3000000.00,1000.00,300000.00,Hamden
+252,Value Added Reseller,Classic Cycle Store,April,Mountain,800000.00,NULL,80000.00,Milford
+253,Specialty Bike Shop,Roving Sports,April,Road,1500000.00,NULL,150000.00,Puyallup
+254,Warehouse,Safe Cycles Shop,June,Mountain,3000000.00,NULL,300000.00,Bellevue
+255,Value Added Reseller,Swift Cycles,May,Road,800000.00,NULL,80000.00,Houston
+256,Specialty Bike Shop,Rental Bikes,November,Road,1500000.00,NULL,150000.00,Dallas
+257,Warehouse,Number 1 Supply,May,Road,3000000.00,600.00,300000.00,Escondido
+258,Value Added Reseller,Quantity Discounts,May,Road,800000.00,NULL,80000.00,Sacramento
+259,Specialty Bike Shop,Highway Bike Shop,May,Road,1500000.00,NULL,150000.00,Simi Valley
+260,Warehouse,Industrial Supplies,May,Touring,3000000.00,NULL,300000.00,Miami
+261,Value Added Reseller,Functional Store North,NULL,Mountain,800000.00,600.00,80000.00,Altamonte Springs
+262,Specialty Bike Shop,General Industries,June,Road,1500000.00,600.00,150000.00,Calgary
+263,Warehouse,Farthest Bike Store,May,Touring,3000000.00,NULL,300000.00,Burnaby
+264,Value Added Reseller,Fasteners & Bolts Outlet,May,Touring,800000.00,NULL,80000.00,Toronto
+265,Specialty Bike Shop,Full Sports Supply,April,Mountain,1500000.00,NULL,150000.00,Paris
+266,Warehouse,Excellent Bikes,May,Touring,3000000.00,NULL,300000.00,Grevenbroich
+267,Value Added Reseller,Cycle Parts and Accessories,June,Touring,800000.00,NULL,80000.00,Melbourne
+268,Specialty Bike Shop,Channel Outlet,June,Touring,1500000.00,600.00,150000.00,High Wycombe
+269,Warehouse,Curbside Universe,April,Road,3000000.00,NULL,300000.00,Euclid
+270,Value Added Reseller,Active Transport Inc.,May,Road,300000.00,NULL,30000.00,North Randall
+271,Specialty Bike Shop,Alternative Vehicles,May,Road,1500000.00,NULL,150000.00,Washougal
+272,Warehouse,Metro Cycle Shop,June,Mountain,3000000.00,600.00,300000.00,Tacoma
+273,Value Added Reseller,A Typical Bike Shop,June,Road,300000.00,200.00,30000.00,Round Rock
+274,Specialty Bike Shop,Active Systems,April,Road,1500000.00,NULL,150000.00,Duluth
+275,Warehouse,Outdoor Sporting Goods,January,Touring,3000000.00,NULL,300000.00,Lakewood
+276,Value Added Reseller,Thrifty Parts and Sales,June,Road,300000.00,NULL,30000.00,Oxnard
+277,Specialty Bike Shop,The Bicycle Accessories Company,June,Road,1500000.00,NULL,150000.00,Alhambra
+278,Warehouse,Tread Industries,May,Mountain,3000000.00,NULL,300000.00,Orlando
+279,Value Added Reseller,Reliable Brake Systems,June,Mountain,300000.00,600.00,30000.00,Memphis
+280,Specialty Bike Shop,Standard Bikes,May,Mountain,1500000.00,NULL,150000.00,Barrie
+281,Warehouse,Petroleum Products Distributors,June,Touring,3000000.00,NULL,300000.00,Montreal
+282,Value Added Reseller,Quick Parts and Service,June,Touring,300000.00,NULL,30000.00,Sainte-Foy
+283,Specialty Bike Shop,Racing Supply Distributors,May,Touring,1500000.00,600.00,150000.00,Roissy en Brie
+284,Warehouse,Nearby Bike Mall,June,Road,3000000.00,1000.00,300000.00,Berlin
+285,Value Added Reseller,Nearest Bike Store,June,Touring,300000.00,NULL,30000.00,North Ryde
+286,Specialty Bike Shop,Number One Bike Co.,April,Road,1500000.00,NULL,150000.00,Reading
+287,Warehouse,Handy Bike Services,May,Mountain,3000000.00,NULL,300000.00,Madison Heights
+288,Value Added Reseller,Kickstand Sellers,June,Mountain,300000.00,NULL,30000.00,Westland
+289,Specialty Bike Shop,Moderately-Priced Bikes Store,May,Mountain,1500000.00,NULL,150000.00,Renton
+290,Warehouse,Friendly Bike Shop,April,Road,3000000.00,600.00,300000.00,Bellingham
+291,Value Added Reseller,Grand Bicycle Stores,June,Mountain,300000.00,NULL,30000.00,Baytown
+292,Specialty Bike Shop,Grease and Oil Products Company,April,Road,1500000.00,NULL,150000.00,Houston
+293,Warehouse,Fashionable Bikes and Accessories,June,Mountain,3000000.00,NULL,300000.00,Park City
+294,Value Added Reseller,Flawless Bike Shop,NULL,Road,300000.00,600.00,30000.00,Vista
+295,Specialty Bike Shop,Engineered Bike Systems,June,Touring,1500000.00,600.00,150000.00,Oxnard
+296,Warehouse,Extreme Toy Store,May,Mountain,3000000.00,NULL,300000.00,Birmingham
+297,Value Added Reseller,Blue-Ribbon Bike Company,June,Touring,300000.00,NULL,30000.00,Saint Matthews
+298,Specialty Bike Shop,City Cycling,NULL,Road,1500000.00,NULL,150000.00,Winnipeg
+299,Warehouse,Citywide Service and Repair,April,Road,3000000.00,NULL,300000.00,Saint John
+300,Value Added Reseller,Nice Bikes,June,Road,300000.00,NULL,30000.00,Ottawa
+301,Specialty Bike Shop,Rural Mountain Bike Mart,May,Road,1500000.00,600.00,150000.00,Paris
+302,Warehouse,Best Cycle Store,April,Touring,3000000.00,NULL,300000.00,Offenbach
+303,Value Added Reseller,Seaside Bike Works,June,Touring,800000.00,NULL,80000.00,North Sydney
+304,Specialty Bike Shop,Essential Bike Works,June,Road,1500000.00,NULL,150000.00,Abingdon
+305,Warehouse,Professional Sporting Goods,April,Touring,3000000.00,600.00,300000.00,Michigan City
+306,Value Added Reseller,Work and Play Association,June,Road,800000.00,200.00,80000.00,Southgate
+307,Specialty Bike Shop,Riding Associates,May,Mountain,1500000.00,NULL,150000.00,Puyallup
+308,Warehouse,Rugged Bikes,June,Touring,3000000.00,NULL,300000.00,Everett
+309,Value Added Reseller,The Gear Store,May,Mountain,800000.00,NULL,80000.00,Houston
+310,Specialty Bike Shop,Orange Bicycle Company,May,Road,1500000.00,NULL,150000.00,Peoria
+311,Warehouse,Principal Bike Company,June,Road,3000000.00,NULL,300000.00,Upland
+312,Value Added Reseller,Resale Services,May,Mountain,800000.00,600.00,80000.00,Culver City
+313,Specialty Bike Shop,Metropolitan Manufacturing,May,Road,1500000.00,NULL,150000.00,El Cajon
+314,Warehouse,One-Piece Handle Bars,June,Mountain,3000000.00,NULL,300000.00,Tupelo
+315,Value Added Reseller,Juvenile Sports Equipment,April,Mountain,800000.00,NULL,80000.00,Merritt Island
+316,Specialty Bike Shop,Low Price Cycles,May,Mountain,1500000.00,600.00,150000.00,Mississauga
+317,Warehouse,Finer Riding Supplies,May,Road,3000000.00,1000.00,300000.00,Burnaby
+318,Value Added Reseller,First-Rate Outlet,May,Road,1000000.00,NULL,100000.00,Victoria
+319,Specialty Bike Shop,Cycles Sales and Repair,June,Touring,1000000.00,NULL,100000.00,Bobigny
+320,Warehouse,Amalgamated Parts Shop,April,Touring,3000000.00,NULL,300000.00,Frankfurt am Main
+321,Value Added Reseller,Second Bike Shop,February,Road,800000.00,NULL,80000.00,Matraville
+322,Specialty Bike Shop,Tachometers and Accessories,June,Mountain,1000000.00,NULL,100000.00,Milton Keynes
+323,Warehouse,Metro Bike Works,May,Mountain,3000000.00,600.00,300000.00,Detroit
+324,Value Added Reseller,A Bicycle Association,NULL,Touring,800000.00,NULL,80000.00,De Witt
+325,Specialty Bike Shop,All Cycle Shop,April,Mountain,1000000.00,NULL,100000.00,Bothell
+326,Warehouse,Year-Round Sports,November,Mountain,3000000.00,NULL,300000.00,Kent
+327,Value Added Reseller,World of Bikes,June,Mountain,800000.00,600.00,80000.00,Saint Louis
+328,Value Added Reseller,Totes & Baskets Company,May,Road,300000.00,200.00,30000.00,San Antonio
+329,Specialty Bike Shop,"Unicycles, Bicycles, and Tricycles",NULL,Touring,800000.00,NULL,80000.00,Downey
+330,Warehouse,The New Bike Store,June,Road,1500000.00,NULL,150000.00,Hanford
+331,Value Added Reseller,Technical Parts Manufacturing,April,Touring,300000.00,NULL,30000.00,Ontario
+332,Specialty Bike Shop,Topnotch Bikes,NULL,Mountain,800000.00,NULL,80000.00,Montgomery
+333,Warehouse,Resident Cycle Shop,NULL,Mountain,1500000.00,NULL,150000.00,Hixson
+334,Value Added Reseller,Retreat Inn,May,Road,300000.00,600.00,30000.00,Waterloo
+335,Specialty Bike Shop,Scratch-Resistant Finishes Company,August,Mountain,800000.00,NULL,80000.00,Mississauga
+336,Warehouse,Primary Bike Distributors,May,Road,1500000.00,NULL,150000.00,Montreal
+337,Value Added Reseller,Recreation Toy Store,April,Mountain,800000.00,NULL,80000.00,Paris La Defense
+338,Specialty Bike Shop,Rambling Tours,September,Touring,800000.00,600.00,80000.00,Stuttgart
+339,Warehouse,Major Bicycle Store,August,Touring,1500000.00,1000.00,150000.00,Matraville
+340,Value Added Reseller,Nearby Cycle Shop,June,Mountain,800000.00,NULL,80000.00,West Sussex
+341,Specialty Bike Shop,Independent Outlet,NULL,Road,1000000.00,NULL,100000.00,Clay
+342,Warehouse,Leather and Vinyl Manufacturing,May,Road,3000000.00,NULL,300000.00,Indianapolis
+343,Value Added Reseller,Mail-Order Outlet,May,Road,800000.00,NULL,80000.00,Ellensburg
+344,Specialty Bike Shop,Fifth Bike Store,April,Road,1000000.00,NULL,100000.00,Everett
+345,Warehouse,Genial Bike Associates,May,Mountain,3000000.00,600.00,300000.00,Humble
+346,Value Added Reseller,Great Bicycle Supply,May,Mountain,1000000.00,NULL,100000.00,Moline
+347,Specialty Bike Shop,Bike Universe,NULL,Mountain,1000000.00,NULL,100000.00,Vacaville
+348,Warehouse,Bold Bike Accessories,May,Mountain,3000000.00,NULL,300000.00,Loveland
+349,Value Added Reseller,Exercise Center,June,Mountain,800000.00,600.00,80000.00,San Jose
+350,Specialty Bike Shop,Mountain Emporium,November,Mountain,1500000.00,600.00,150000.00,Nashville
+351,Warehouse,Acclaimed Bicycle Company,June,Touring,3000000.00,NULL,300000.00,Mcdonough
+352,Value Added Reseller,Twelfth Bike Store,May,Mountain,800000.00,NULL,80000.00,Edmonton
+353,Specialty Bike Shop,Two-Wheeled Transit Company,May,Mountain,1500000.00,NULL,150000.00,Winnipeg
+354,Warehouse,Serious Cycles,November,Mountain,3000000.00,NULL,300000.00,Calgary
+355,Value Added Reseller,Spare Parts Co.,April,Mountain,800000.00,NULL,80000.00,Paris
+356,Specialty Bike Shop,Speedometer Sales,NULL,Road,1500000.00,600.00,150000.00,Hamburg
+357,Warehouse,Quality Bike Sales,May,Touring,3000000.00,NULL,300000.00,Findon
+358,Value Added Reseller,Mail Market,May,Touring,800000.00,NULL,80000.00,York
+359,Specialty Bike Shop,Mechanical Sports Center,May,Road,1500000.00,NULL,150000.00,Cincinnati
+360,Warehouse,Novelty Bikes,May,Touring,3000000.00,600.00,300000.00,Saginaw
+361,Value Added Reseller,Fitness Supplies,May,Touring,800000.00,200.00,80000.00,Sequim
+362,Specialty Bike Shop,Grand Cycle Store,NULL,Road,1500000.00,NULL,150000.00,Spokane
+363,Warehouse,Immense Manufacturing Company,May,Touring,3000000.00,NULL,300000.00,Saint Ann
+364,Value Added Reseller,District Mall,May,Road,800000.00,NULL,80000.00,Ferguson
+365,Specialty Bike Shop,Distinctive Store,June,Road,1500000.00,NULL,150000.00,Barstow
+366,Warehouse,Extended Bike Sales,June,Mountain,3000000.00,NULL,300000.00,City Of Commerce
+367,Value Added Reseller,Brown Bicycle Company,NULL,Road,800000.00,600.00,80000.00,San Diego
+368,Specialty Bike Shop,Elemental Sporting Goods,June,Mountain,1500000.00,NULL,150000.00,Decatur
+369,Warehouse,Distinctive Cycles Sales & Service,June,Mountain,3000000.00,NULL,300000.00,Florence
+370,Value Added Reseller,Acceptable Sales & Service,May,Road,800000.00,NULL,80000.00,Calgary
+371,Specialty Bike Shop,Custom Sales and Service,NULL,Road,1500000.00,600.00,150000.00,Surrey
+372,Warehouse,Top Bike Market,June,Touring,3000000.00,1000.00,300000.00,Kingston
+373,Value Added Reseller,Township Inn,NULL,Road,800000.00,NULL,80000.00,Les Ulis
+374,Specialty Bike Shop,Major Equipment Co,NULL,Touring,1500000.00,NULL,150000.00,Salzgitter
+375,Warehouse,Region Bike Company,NULL,Road,3000000.00,NULL,300000.00,East Brisbane
+376,Value Added Reseller,Commerce Bicycle Specialists,May,Mountain,800000.00,NULL,80000.00,Berkshire
+377,Specialty Bike Shop,Grand Sport Boutique,May,Road,1500000.00,NULL,150000.00,Saginaw
+378,Warehouse,Grown-up Bike Store,May,Mountain,3000000.00,600.00,300000.00,Springdale
+379,Value Added Reseller,Fad Outlet,June,Road,300000.00,NULL,30000.00,Portland
+380,Specialty Bike Shop,First Department Stores,April,Mountain,1500000.00,NULL,150000.00,Cheyenne
+381,Warehouse,Bicycle Lines Distributors,May,Mountain,3000000.00,NULL,300000.00,Saint Louis
+382,Value Added Reseller,Beneficial Exercises and Activities,March,Road,300000.00,600.00,30000.00,San Antonio
+383,Specialty Bike Shop,Vehicle Shop,April,Road,1500000.00,600.00,150000.00,Redlands
+384,Warehouse,Sparkling Paint and Finishes,May,Mountain,3000000.00,NULL,300000.00,San Ysidro
+385,Value Added Reseller,Sturdy Toys,May,Mountain,300000.00,NULL,30000.00,Gilroy
+386,Specialty Bike Shop,Touring Services,December,Road,1500000.00,NULL,150000.00,Myrtle Beach
+387,Warehouse,Racing Association,April,Road,3000000.00,NULL,300000.00,Huntsville
+388,Value Added Reseller,Road Way Sales and Rental,June,Mountain,300000.00,NULL,30000.00,Vancouver
+389,Specialty Bike Shop,Sixth Bike Store,May,Mountain,1500000.00,600.00,150000.00,Surrey
+390,Warehouse,Plastic Parts Company,May,Mountain,3000000.00,NULL,300000.00,Waterloo
+391,Value Added Reseller,Pretty Bikes and Toys,May,Road,300000.00,NULL,30000.00,Paris
+392,Specialty Bike Shop,Primary Cycle Shop,April,Road,1500000.00,NULL,150000.00,Hamburg
+393,Warehouse,Gears and Parts Company,May,Touring,3000000.00,600.00,300000.00,Milsons Point
+394,Value Added Reseller,Little Sports Center,NULL,Touring,300000.00,200.00,30000.00,York
+395,Specialty Bike Shop,Online Bike Sellers,June,Mountain,1500000.00,NULL,150000.00,Midland
+396,Warehouse,Executive Gift Store,May,Mountain,3000000.00,NULL,300000.00,New Castle
+397,Value Added Reseller,Capable Sales and Service,April,Mountain,300000.00,NULL,30000.00,Seattle
+398,Specialty Bike Shop,Commendable Bikes,April,Road,1500000.00,NULL,150000.00,Sandpoint
+399,Warehouse,Big Cycle Mall,May,Touring,3000000.00,NULL,300000.00,Killeen
+400,Value Added Reseller,Local Sales and Rental,June,Touring,300000.00,600.00,30000.00,Joliet
+401,Specialty Bike Shop,Brightwork Company,May,Mountain,1500000.00,NULL,150000.00,Las Vegas
+402,Warehouse,Pro Sporting Goods,NULL,Mountain,3000000.00,NULL,300000.00,Camarillo
+403,Value Added Reseller,Affordable Sports Equipment,May,Road,300000.00,NULL,30000.00,Lake Elsinore
+404,Specialty Bike Shop,Activity Center,April,Road,1500000.00,600.00,150000.00,Crossville
+405,Warehouse,Sporting Goods and Bicycle Shop,NULL,Road,3000000.00,1000.00,300000.00,Kingsport
+406,Value Added Reseller,The Commissary,March,Road,300000.00,NULL,30000.00,Outremont
+407,Specialty Bike Shop,Workout Emporium,June,Touring,1500000.00,NULL,150000.00,Montreal
+408,Warehouse,Odometers and Accessories Company,June,Touring,3000000.00,NULL,300000.00,Richmond
+409,Value Added Reseller,Outdoor Toy Store,NULL,Mountain,300000.00,NULL,30000.00,Aujan Mournede
+410,Specialty Bike Shop,Pedaling Components,May,Touring,1500000.00,NULL,150000.00,Kiel
+411,Warehouse,Kids and Adults Cycle Shop,May,Mountain,3000000.00,600.00,300000.00,North Sydney
+412,Value Added Reseller,Leisure Clearing House,May,Road,800000.00,NULL,80000.00,Birmingham
+413,Specialty Bike Shop,Margie's Travel,NULL,Mountain,1500000.00,NULL,150000.00,Central Valley
+414,Warehouse,Grand Discount Store,April,Mountain,3000000.00,NULL,300000.00,Daleville
+415,Value Added Reseller,Imaginary Toys,NULL,Touring,800000.00,600.00,80000.00,Spokane
+416,Specialty Bike Shop,Impromptu Trips,NULL,Mountain,1500000.00,600.00,150000.00,Union Gap
+417,Warehouse,Genuine Bike Shop,December,Road,3000000.00,NULL,300000.00,San Antonio
+418,Value Added Reseller,Good Bike Shop,June,Road,800000.00,NULL,80000.00,Racine
+419,Specialty Bike Shop,Exertion Activities Club,NULL,Touring,1500000.00,NULL,150000.00,Norwalk
+420,Warehouse,Extreme Riding Supplies,June,Touring,3000000.00,NULL,300000.00,Sherman Oaks
+421,Value Added Reseller,Fitness Cycling,April,Mountain,800000.00,NULL,80000.00,Whittier
+422,Specialty Bike Shop,Consolidated Sales,May,Mountain,1500000.00,600.00,150000.00,Gaffney
+423,Warehouse,Bike Rims Company,April,Road,3000000.00,NULL,300000.00,Biloxi
+424,Value Added Reseller,Bikes for Two,June,Mountain,800000.00,NULL,80000.00,Richmond Hill
+425,Specialty Bike Shop,Bikes for Kids and Adults,April,Mountain,1500000.00,NULL,150000.00,Etobicoke
+426,Warehouse,Custom Accessories Company,May,Road,3000000.00,600.00,300000.00,Brampton
+427,Value Added Reseller,Atypical Bike Company,November,Road,1000000.00,200.00,100000.00,Paris
+428,Specialty Bike Shop,West Wind Distributors,June,Touring,1000000.00,NULL,100000.00,Hannover
+429,Warehouse,Unusual Bicycle Company,April,Touring,3000000.00,NULL,300000.00,Silverwater
+430,Value Added Reseller,Uttermost Bike Shop,May,Road,800000.00,NULL,80000.00,Bracknell
+431,Specialty Bike Shop,Small Cycle Store,April,Road,1000000.00,NULL,100000.00,Holland
+432,Warehouse,Super Sports Store,May,Road,3000000.00,NULL,300000.00,Indianapolis
+433,Value Added Reseller,Thorough Parts and Repair Services,May,Road,800000.00,600.00,80000.00,Lacey
+434,Specialty Bike Shop,Road-Way Mart,October,Mountain,1000000.00,NULL,100000.00,Missoula
+435,Warehouse,Satin Finish Company,May,Mountain,3000000.00,NULL,300000.00,Corpus Christi
+436,Value Added Reseller,Sheet Metal Manufacturing,May,Road,800000.00,NULL,80000.00,College Station
+437,Value Added Reseller,Professional Cycle Store,April,Mountain,300000.00,600.00,30000.00,Phoenix
+438,Specialty Bike Shop,Remarkable Bike Store,June,Road,800000.00,600.00,80000.00,Las Vegas
+439,Warehouse,Regional Manufacturing,March,Mountain,1500000.00,NULL,150000.00,Tucson
+440,Value Added Reseller,Hobby Store,April,Mountain,300000.00,NULL,30000.00,Orlando
+441,Specialty Bike Shop,Leading Bike Distributors,May,Road,800000.00,NULL,80000.00,Somerset
+442,Warehouse,Original Bicycle Supply Company,April,Mountain,1500000.00,NULL,150000.00,Toronto
+443,Value Added Reseller,Courteous Bicycle Specialists,June,Touring,300000.00,NULL,30000.00,Richmond Hill
+444,Specialty Bike Shop,Finer Cycle Shop,May,Mountain,800000.00,600.00,80000.00,Calgary
+445,Warehouse,First Center,June,Mountain,1500000.00,NULL,150000.00,Pantin
+446,Value Added Reseller,Fitness Toys,May,Touring,800000.00,NULL,80000.00,Berlin
+447,Specialty Bike Shop,Cross-town Parts Shop,NULL,Road,800000.00,NULL,80000.00,Springwood
+448,Warehouse,Action Bicycle Specialists,June,Touring,1500000.00,600.00,150000.00,Woolston
+449,Value Added Reseller,Bike Products and Accessories,May,Mountain,800000.00,200.00,80000.00,Virginia Beach
+450,Specialty Bike Shop,Bikes Anyone?,NULL,Touring,1000000.00,NULL,100000.00,Saugus
+451,Warehouse,Roadway Bike Emporium,April,Touring,3000000.00,NULL,300000.00,Medford
+452,Value Added Reseller,A Cycle Shop,NULL,Touring,800000.00,NULL,80000.00,Albany
+453,Specialty Bike Shop,Unique Bikes,June,Mountain,1000000.00,NULL,100000.00,Milwaukee
+454,Warehouse,Sleek Bikes,June,Touring,3000000.00,NULL,300000.00,Denby
+455,Value Added Reseller,Timely Shipping Service,NULL,Mountain,1000000.00,600.00,100000.00,Alpine
+456,Specialty Bike Shop,Riding Excursions,January,Road,1000000.00,NULL,100000.00,Irvine
+457,Warehouse,Retail Sporting Equipment,June,Mountain,3000000.00,NULL,300000.00,Mesa
+458,Value Added Reseller,Simple Bike Parts,April,Road,800000.00,NULL,80000.00,Destin
+459,Specialty Bike Shop,Parts Shop,October,Road,1500000.00,600.00,150000.00,La Grange
+460,Warehouse,Price-Cutter Discount Bikes,June,Road,3000000.00,1000.00,300000.00,Brossard
+461,Value Added Reseller,Active Life Toys,June,Road,800000.00,NULL,80000.00,Mississauga
+462,Specialty Bike Shop,General Riding Supplies,May,Mountain,1500000.00,NULL,150000.00,Richmond
+463,Warehouse,Brand New Bikes,NULL,Road,3000000.00,NULL,300000.00,Les Ulis
+464,Value Added Reseller,Educational Services,June,Touring,800000.00,NULL,80000.00,Saarbrücken
+465,Specialty Bike Shop,Expert Cycle Store,NULL,Touring,1500000.00,NULL,150000.00,St. Leonards
+466,Warehouse,Central Bicycle Specialists,June,Touring,3000000.00,600.00,300000.00,Maidenhead
+467,Value Added Reseller,The Cycle Store,December,Mountain,800000.00,NULL,80000.00,Falls Church
+468,Specialty Bike Shop,Blue Bicycle Company,February,Road,1500000.00,NULL,150000.00,Monroe
+469,Warehouse,Vast Bike Sales and Rental,May,Mountain,3000000.00,NULL,300000.00,Chehalis
+470,Value Added Reseller,Wingtip Toys,March,Mountain,800000.00,600.00,80000.00,Kennewick
+471,Specialty Bike Shop,Social Activities Club,May,Road,1500000.00,600.00,150000.00,San Antonio
+472,Warehouse,Summer Sports Place,December,Mountain,3000000.00,NULL,300000.00,Norridge
+473,Value Added Reseller,Racing Toys,June,Road,800000.00,NULL,80000.00,Phoenix
+474,Specialty Bike Shop,Retail Cycle Shop,September,Mountain,1500000.00,NULL,150000.00,Eureka
+475,Warehouse,Real Sporting Goods,April,Mountain,3000000.00,NULL,300000.00,Phoenix
+476,Value Added Reseller,Noiseless Gear Company,May,Mountain,800000.00,NULL,80000.00,Columbus
+477,Specialty Bike Shop,Quitting Business Distributors,June,Touring,1500000.00,600.00,150000.00,Tampa
+478,Warehouse,Major Cycling,February,Road,3000000.00,NULL,300000.00,Richmond
+479,Value Added Reseller,General Supplies,May,Road,800000.00,NULL,80000.00,Ville De'anjou
+480,Specialty Bike Shop,General Bike Corporation,April,Road,1500000.00,NULL,150000.00,Mississauga
+481,Warehouse,Getaway Inn,June,Road,3000000.00,600.00,300000.00,Saint Ouen
+482,Value Added Reseller,"Fabrikam Inc., East",April,Road,800000.00,200.00,80000.00,Eilenburg
+483,Specialty Bike Shop,Fitness Bike Accessories,June,Touring,1500000.00,NULL,150000.00,Rhodes
+484,Warehouse,Downhill Bicycle Specialists,May,Mountain,3000000.00,NULL,300000.00,Berks
+485,Value Added Reseller,Clamps & Brackets Co.,April,Mountain,800000.00,NULL,80000.00,Leesburg
+486,Specialty Bike Shop,Convenient Bike Shop,April,Road,1500000.00,NULL,150000.00,Braintree
+487,Warehouse,Bike Experts,May,Mountain,3000000.00,NULL,300000.00,Salem
+488,Value Added Reseller,Bicycle Accessories and Kits,March,Mountain,300000.00,600.00,30000.00,Lewiston
+489,Specialty Bike Shop,Cash & Carry Bikes,March,Mountain,1500000.00,NULL,150000.00,Cedar Park
+490,Warehouse,Extraordinary Bike Works,June,Mountain,3000000.00,NULL,300000.00,Mesquite
+491,Value Added Reseller,Area Bike Accessories,April,Road,300000.00,NULL,30000.00,Modesto
+492,Specialty Bike Shop,Basic Sports Equipment,May,Mountain,1500000.00,600.00,150000.00,Baldwin Park
+493,Warehouse,Valley Bicycle Distributors,May,Road,3000000.00,1000.00,300000.00,Citrus Heights
+494,Value Added Reseller,Worthwhile Activity Store,April,Mountain,300000.00,NULL,30000.00,Miami
+495,Specialty Bike Shop,Tough and Reliable Parts,November,Road,1500000.00,NULL,150000.00,Lakeland
+496,Warehouse,Top Sports Supply,April,Mountain,3000000.00,NULL,300000.00,Edmonton
+497,Value Added Reseller,Valley Toy Store,June,Mountain,300000.00,NULL,30000.00,Richmond
+498,Specialty Bike Shop,Quick Delivery Service,June,Mountain,1500000.00,NULL,150000.00,Mississauga
+499,Warehouse,Racing Sales and Service,June,Road,3000000.00,600.00,300000.00,Orleans
+500,Value Added Reseller,Irregulars Outlet,NULL,Mountain,300000.00,NULL,30000.00,Dresden
+501,Specialty Bike Shop,Jumbo Bikes,June,Touring,1500000.00,NULL,150000.00,Malabar
+502,Warehouse,Metropolitan Bicycle Supply,June,Mountain,3000000.00,NULL,300000.00,London
+503,Value Added Reseller,Metropolitan Sales and Rental,June,Road,300000.00,600.00,30000.00,Hooksett
+504,Specialty Bike Shop,Historic Bicycle Sales,April,Mountain,1500000.00,600.00,150000.00,Redford
+505,Warehouse,Honest Repair Service,April,Touring,3000000.00,NULL,300000.00,Kelso
+506,Value Added Reseller,Great Bikes,April,Mountain,300000.00,NULL,30000.00,Casper
+507,Specialty Bike Shop,Global Sporting Goods,NULL,Road,1500000.00,NULL,150000.00,Stafford
+508,Warehouse,Designer Department Stores,NULL,Road,3000000.00,NULL,300000.00,Hillsboro
+509,Value Added Reseller,Fun Toys and Bikes,June,Touring,300000.00,NULL,30000.00,Tucson
+510,Specialty Bike Shop,World Bike Discount Store,January,Road,1500000.00,600.00,150000.00,Trabuco Canyon
+511,Warehouse,Wheel Gallery,April,Road,3000000.00,NULL,300000.00,San Mateo
+512,Value Added Reseller,Tiny Bike Boutique,May,Road,300000.00,NULL,30000.00,Nashville
+513,Specialty Bike Shop,Village Tours,May,Mountain,1500000.00,NULL,150000.00,Newport
+514,Warehouse,Retail Mall,April,Road,3000000.00,600.00,300000.00,Richmond
+515,Value Added Reseller,Rural Bicycle Supply,NULL,Mountain,300000.00,200.00,30000.00,North York
+516,Specialty Bike Shop,Seats and Saddles Company,November,Mountain,1500000.00,NULL,150000.00,Kingston
+517,Warehouse,Racing Store,NULL,Road,3000000.00,NULL,300000.00,Les Ulis
+518,Value Added Reseller,Regional Cycle Shop,March,Road,300000.00,NULL,30000.00,Berlin
+519,Specialty Bike Shop,List Price Catalog Company,May,Touring,1500000.00,NULL,150000.00,Melbourne
+520,Warehouse,Metro Metals Co.,May,Touring,3000000.00,NULL,300000.00,London
+521,Value Added Reseller,Mobile Outlet,August,Road,800000.00,600.00,80000.00,Woonsocket
+522,Specialty Bike Shop,Small Bike Accessories Shop,May,Touring,1500000.00,NULL,150000.00,Cheektowaga
+523,Warehouse,Futuristic Sport Distributors,April,Road,3000000.00,NULL,300000.00,Longmont
+524,Value Added Reseller,Chain and Chain Tool Distributions,August,Road,800000.00,NULL,80000.00,Smithfield
+525,Specialty Bike Shop,Cycles and Scooters,June,Road,1500000.00,600.00,150000.00,Byron
+526,Warehouse,Finer Sales and Service,NULL,Road,3000000.00,1000.00,300000.00,Ottawa
+527,Value Added Reseller,Fun Times Club,May,Road,800000.00,NULL,80000.00,Parker
+528,Specialty Bike Shop,Alpine Ski House,May,Road,1500000.00,NULL,150000.00,Elk Grove
+529,Warehouse,Big-Time Bike Store,May,Road,3000000.00,NULL,300000.00,Camarillo
+530,Value Added Reseller,Valuable Bike Parts Company,April,Mountain,800000.00,NULL,80000.00,Orlando
+531,Specialty Bike Shop,Sunny Place Bikes,May,Road,1500000.00,NULL,150000.00,Vero Beach
+532,Warehouse,The Showroom,May,Road,3000000.00,600.00,300000.00,Kanata
+533,Value Added Reseller,Tenth Bike Store,May,Road,800000.00,NULL,80000.00,Sillery
+534,Specialty Bike Shop,Recommended Bicycles,May,Road,1500000.00,NULL,150000.00,Mississauga
+535,Warehouse,Spa and Exercise Outfitters,May,Mountain,3000000.00,NULL,300000.00,Cergy
+536,Value Added Reseller,Next Door Cycles,June,Touring,1000000.00,600.00,100000.00,Berlin
+537,Specialty Bike Shop,Preferable Bikes,NULL,Touring,1000000.00,600.00,100000.00,Rhodes
+538,Warehouse,Prosperous Tours,April,Road,3000000.00,NULL,300000.00,London
+539,Value Added Reseller,Glossy Bikes,June,Touring,800000.00,NULL,80000.00,Lake George
+540,Specialty Bike Shop,Guaranteed Sales and Service,May,Road,1000000.00,NULL,100000.00,Burbank
+541,Warehouse,Nonskid Tire Company,May,Mountain,3000000.00,NULL,300000.00,Great Falls
+542,Value Added Reseller,Finer Parts Shop,June,Mountain,800000.00,NULL,80000.00,Kirkland
+543,Specialty Bike Shop,Friendly Neighborhood Bikes,June,Mountain,1000000.00,600.00,100000.00,Johnson Creek
+544,Warehouse,Valley Bicycle Specialists,June,Mountain,3000000.00,NULL,300000.00,Kansas City
+545,Value Added Reseller,Finish and Sealant Products,June,Road,800000.00,NULL,80000.00,San Bruno
+546,Value Added Reseller,Field Trip Store,May,Mountain,300000.00,NULL,30000.00,Loveland
+547,Specialty Bike Shop,Curbside Sporting Goods,NULL,Road,800000.00,600.00,80000.00,Walnut Creek
+548,Warehouse,New Bikes Company,May,Road,1500000.00,1000.00,150000.00,Bluffton
+549,Value Added Reseller,Daring Rides,April,Road,300000.00,NULL,30000.00,Clearwater
+550,Specialty Bike Shop,Remote Bicycle Specialists,June,Road,800000.00,NULL,80000.00,Quebec
+551,Warehouse,Vinyl and Plastic Goods Corporation,June,Mountain,1500000.00,NULL,150000.00,Toronto
+552,Value Added Reseller,Consolidated Messenger,May,Road,300000.00,NULL,30000.00,Toronto
+553,Specialty Bike Shop,Accessories Network,June,Touring,800000.00,NULL,80000.00,Paris
+554,Warehouse,Top of the Line Bikes,May,Touring,1500000.00,600.00,150000.00,Paderborn
+555,Value Added Reseller,Twin Cycles,June,Touring,800000.00,NULL,80000.00,Darlinghurst
+556,Specialty Bike Shop,Variety Cycling,May,Touring,800000.00,NULL,80000.00,London
+557,Warehouse,Purchase Mart,June,Touring,1500000.00,NULL,150000.00,Wrentham
+558,Value Added Reseller,Retail Sales and Service,May,Road,800000.00,600.00,80000.00,Tilton
+559,Specialty Bike Shop,Some Discount Store,February,Mountain,1000000.00,600.00,100000.00,Cheyenne
+560,Warehouse,Major Sport Suppliers,April,Mountain,3000000.00,NULL,300000.00,Rock Springs
+561,Value Added Reseller,Mountain Toy Store,June,Road,800000.00,NULL,80000.00,Sugar Land
+562,Specialty Bike Shop,Practical Bike Supply Company,June,Mountain,1000000.00,NULL,100000.00,Woodbury
+563,Warehouse,Systematic Sales,May,Touring,3000000.00,NULL,300000.00,Gilbert
+564,Value Added Reseller,Imported and Domestic Cycles,May,Road,1000000.00,NULL,100000.00,North Las Vegas
+565,Specialty Bike Shop,Metallic Paint and Overcoat Co,NULL,Road,1000000.00,600.00,100000.00,Vista
+566,Warehouse,eCommerce Bikes,May,Mountain,3000000.00,NULL,300000.00,Gulfport
+567,Value Added Reseller,Global Plaza,June,Mountain,800000.00,NULL,80000.00,Pigeon Forge
+568,Specialty Bike Shop,Economy Center,February,Mountain,1500000.00,NULL,150000.00,Toronto
+569,Warehouse,Designated Distributors,May,Road,3000000.00,600.00,300000.00,Nepean
+570,Value Added Reseller,Family's Favorite Bike Shop,May,Mountain,800000.00,200.00,80000.00,Montreal
+571,Specialty Bike Shop,Community Department Stores,June,Mountain,1500000.00,NULL,150000.00,Boulogne-sur-Mer
+572,Warehouse,Versatile Sporting Goods Company,April,Road,3000000.00,NULL,300000.00,Braunschweig
+573,Value Added Reseller,Nationwide Supply,June,Touring,800000.00,NULL,80000.00,Rhodes
+574,Specialty Bike Shop,Area Sheet Metal Supply,May,Road,1500000.00,NULL,150000.00,London
+575,Warehouse,Bicycle Outfitters,June,Road,3000000.00,NULL,300000.00,Cincinnati
+576,Value Added Reseller,The Bike Mechanics,June,Mountain,800000.00,600.00,80000.00,Mansfield
+577,Specialty Bike Shop,Synthetic Materials Manufacturing,April,Road,1500000.00,NULL,150000.00,Tacoma
+578,Warehouse,The Bike Shop,April,Mountain,3000000.00,NULL,300000.00,Puyallup
+579,Value Added Reseller,Riders Company,June,Road,800000.00,NULL,80000.00,Branch
+580,Specialty Bike Shop,Rural Sales and Service,June,Road,1500000.00,600.00,150000.00,San Antonio
+581,Warehouse,Safe Toys,June,Mountain,3000000.00,1000.00,300000.00,Rio Rancho
+582,Value Added Reseller,Professional Sales and Service,June,Touring,800000.00,NULL,80000.00,Van Nuys
+583,Specialty Bike Shop,Professional Containers and Packaging Co.,May,Mountain,1500000.00,NULL,150000.00,Surprise
+584,Warehouse,Qualified Sales and Repair Services,May,Road,3000000.00,NULL,300000.00,Savannah
+585,Value Added Reseller,Next-Door Bike Store,June,Mountain,800000.00,NULL,80000.00,Memphis
+586,Specialty Bike Shop,One Bike Company,June,Mountain,1500000.00,NULL,150000.00,Montreal
+587,Warehouse,Our Sporting Goods Store,June,Road,3000000.00,600.00,300000.00,Ottawa
+588,Value Added Reseller,General Cycle Storehouse,June,Mountain,800000.00,NULL,80000.00,Burnaby
+589,Specialty Bike Shop,Hiatus Bike Tours,NULL,Touring,1500000.00,NULL,150000.00,Paris
+590,Warehouse,Lustrous Paints and Components,July,Road,3000000.00,NULL,300000.00,Poing
+591,Value Added Reseller,Fitness Discount Store,April,Touring,800000.00,600.00,80000.00,Melbourne
+592,Specialty Bike Shop,Cycling Goods,May,Road,1500000.00,600.00,150000.00,London
+593,Warehouse,Expert Sports Store,May,Mountain,3000000.00,NULL,300000.00,Holland
+594,Value Added Reseller,Casual Bicycle Store,April,Mountain,800000.00,NULL,80000.00,Nashua
+595,Specialty Bike Shop,Cycle Clearance,June,Touring,1500000.00,NULL,150000.00,Albany
+596,Warehouse,Coho Sports,May,Mountain,3000000.00,NULL,300000.00,Everett
+597,Value Added Reseller,All Seasons Sports Supply,April,Touring,300000.00,NULL,30000.00,Houston
+598,Specialty Bike Shop,Black Bicycle Company,May,Mountain,1500000.00,600.00,150000.00,Branson
+599,Warehouse,Westside Plaza,April,Touring,3000000.00,NULL,300000.00,Sand City
+600,Value Added Reseller,Strenuous Exercise Shop,NULL,Mountain,300000.00,NULL,30000.00,Norwalk
+601,Specialty Bike Shop,Transport Bikes,June,Touring,1500000.00,NULL,150000.00,Sandy
+602,Warehouse,Ultimate Bike Shop,June,Mountain,3000000.00,600.00,300000.00,Maryville
+603,Value Added Reseller,Retail Toy Store,July,Road,300000.00,200.00,30000.00,Miami
+604,Specialty Bike Shop,Sellers of Cycles,June,Road,1500000.00,NULL,150000.00,Clackamas
+605,Warehouse,Outstanding Cycles,May,Touring,3000000.00,NULL,300000.00,Spokane
+606,Value Added Reseller,Little Bicycle Supply Shop,May,Road,300000.00,NULL,30000.00,Mosinee
+607,Specialty Bike Shop,Maintenance and Repair for Bicycles,May,Touring,1500000.00,NULL,150000.00,La Marque
+608,Warehouse,Golf and Cycle Store,June,Mountain,3000000.00,NULL,300000.00,La Mesa
+609,Value Added Reseller,Good Toys,June,Road,300000.00,600.00,30000.00,Auburn
+610,Specialty Bike Shop,Fitness Department Stores,February,Touring,1500000.00,NULL,150000.00,Scottsdale
+611,Warehouse,Front Runner Bikes,June,Touring,3000000.00,NULL,300000.00,Bradenton
+612,Value Added Reseller,General Associates,May,Road,300000.00,NULL,30000.00,Hollywood
+613,Specialty Bike Shop,Famous Bike Shop,June,Mountain,1500000.00,600.00,150000.00,Vancouver
+614,Warehouse,Favorite Toy Distributor,May,Touring,3000000.00,1000.00,300000.00,Paris
+615,Value Added Reseller,Fast Services,May,Road,300000.00,NULL,30000.00,Leipzig
+616,Specialty Bike Shop,Eastward Bike Accessories,June,Touring,1500000.00,NULL,150000.00,Matraville
+617,Warehouse,Tubeless Tire Company,August,Touring,3000000.00,NULL,300000.00,Oxford
+618,Value Added Reseller,Seventh Bike Store,April,Road,300000.00,NULL,30000.00,Plaistow
+619,Specialty Bike Shop,Strong Metal Manufacturing,NULL,Road,1500000.00,NULL,150000.00,Ithaca
+620,Warehouse,Tires and Tubes,NULL,Mountain,3000000.00,600.00,300000.00,Cheyenne
+621,Value Added Reseller,Running and Cycling Gear,June,Touring,300000.00,NULL,30000.00,Bellingham
+622,Specialty Bike Shop,Gift and Toy Store,April,Road,1500000.00,NULL,150000.00,Tuscola
+623,Warehouse,Hardware Components,May,Mountain,3000000.00,NULL,300000.00,Minneapolis
+624,Value Added Reseller,First Cycle Store,June,Road,300000.00,600.00,30000.00,Scottsdale
+625,Specialty Bike Shop,Major Sporting Goods,May,Road,1500000.00,600.00,150000.00,Chandler
+626,Warehouse,Retail Sporting Goods,October,Road,3000000.00,NULL,300000.00,Las Vegas
+627,Value Added Reseller,Exchange Parts Inc.,June,Touring,300000.00,NULL,30000.00,Raleigh
+628,Specialty Bike Shop,Executive Discount Store,October,Road,1500000.00,NULL,150000.00,Miami
+629,Warehouse,Efficient Cycling,May,Touring,3000000.00,NULL,300000.00,Calgary
+630,Value Added Reseller,Eastside Parts Shop,June,Touring,800000.00,NULL,80000.00,Toronto
+631,Specialty Bike Shop,Tandem Sales and Service,December,Road,1500000.00,600.00,150000.00,Toronto
+632,Warehouse,Ultimate Bicycle Company,May,Mountain,3000000.00,NULL,300000.00,Morangis
+633,Value Added Reseller,Rustic Bike Store,June,Touring,800000.00,NULL,80000.00,Augsburg
+634,Specialty Bike Shop,Sensible Sports,April,Touring,1500000.00,NULL,150000.00,Rhodes
+635,Warehouse,Sports Store,June,Mountain,3000000.00,600.00,300000.00,Cambridge
+636,Value Added Reseller,Recreation Systems,June,Road,800000.00,200.00,80000.00,Logansport
+637,Specialty Bike Shop,Reliable Retail Center,June,Road,1500000.00,NULL,150000.00,Toronto
+638,Warehouse,Metropolitan Equipment,May,Road,3000000.00,NULL,300000.00,Paris
+639,Value Added Reseller,Producer Goods Clearinghouse,April,Road,800000.00,NULL,80000.00,Frankfurt
+640,Specialty Bike Shop,Liquidation Sales,June,Touring,1500000.00,NULL,150000.00,Perth
+641,Warehouse,Extended Tours,April,Road,3000000.00,NULL,300000.00,London
+642,Value Added Reseller,Fitness Sport Boutique,May,Mountain,800000.00,600.00,80000.00,Kittery
+643,Specialty Bike Shop,Friendly Bike Shop,April,Road,1500000.00,NULL,150000.00,Port Huron
+644,Warehouse,Convenient Sales and Service,June,Road,3000000.00,NULL,300000.00,Springfield
+645,Value Added Reseller,Superior Hardware Distributors,May,Mountain,1000000.00,NULL,100000.00,Beaverton
+646,Specialty Bike Shop,Yellow Bicycle Company,January,Mountain,1000000.00,600.00,100000.00,Saint Louis
+647,Warehouse,Solid Bike Parts,June,Road,3000000.00,1000.00,300000.00,Arlington
+648,Value Added Reseller,Small Bike Shop,June,Mountain,800000.00,NULL,80000.00,El Segundo
+649,Specialty Bike Shop,Sports Products Store,June,Road,1000000.00,NULL,100000.00,Santa Ana
+650,Warehouse,Permanent Finish Products,May,Mountain,3000000.00,NULL,300000.00,Reno
+651,Value Added Reseller,Retread Tire Company,June,Road,800000.00,NULL,80000.00,Augusta
+652,Specialty Bike Shop,Selected Distributors,June,Mountain,1000000.00,NULL,100000.00,Marietta
+653,Warehouse,Mercantile Outlet,May,Mountain,3000000.00,600.00,300000.00,Toronto
+654,Value Added Reseller,Online Bike Warehouse,December,Road,800000.00,NULL,80000.00,Aurora
+655,Value Added Reseller,Operational Manufacturing,June,Mountain,300000.00,NULL,30000.00,Dorval
+656,Specialty Bike Shop,Impervious Paint Company,May,Mountain,800000.00,NULL,80000.00,Paris
+657,Warehouse,Links Works,NULL,Mountain,1500000.00,600.00,150000.00,Ascheim
+658,Value Added Reseller,Mass Market Bikes,NULL,Touring,300000.00,200.00,30000.00,Alexandria
+659,Specialty Bike Shop,Shipping Specialists,May,Road,800000.00,NULL,80000.00,London
+660,Warehouse,Exhilarating Cycles,April,Road,1500000.00,NULL,150000.00,Howell
+661,Value Added Reseller,General Department Stores,May,Mountain,300000.00,NULL,30000.00,Calgary
+662,Specialty Bike Shop,Finer Sporting Goods,May,Touring,800000.00,NULL,80000.00,Croix
+663,Warehouse,Capital Riding Supplies,May,Mountain,1500000.00,NULL,150000.00,Augsburg
+664,Value Added Reseller,Eastside Cycle Shop,April,Touring,800000.00,600.00,80000.00,Melbourne
+665,Specialty Bike Shop,Authentic Sales and Service,June,Mountain,800000.00,NULL,80000.00,London
+666,Warehouse,Bike Boutique,May,Road,1500000.00,NULL,150000.00,Columbus
+667,Value Added Reseller,Traditional Department Stores,May,Mountain,800000.00,NULL,80000.00,Valley Stream
+668,Specialty Bike Shop,Official Parts Shop,April,Road,1000000.00,600.00,100000.00,Kelso
+669,Warehouse,Racing Bike Outlet,May,Road,3000000.00,1000.00,300000.00,Federal Way
+670,Value Added Reseller,First Bike Store,April,Road,800000.00,NULL,80000.00,Odessa
+671,Specialty Bike Shop,"Contoso, Ltd.",NULL,Road,1000000.00,NULL,100000.00,San Antonio
+672,Warehouse,Utilitarian Sporting Goods,June,Touring,3000000.00,NULL,300000.00,Ogden
+673,Value Added Reseller,Countryside Company,April,Mountain,1000000.00,NULL,100000.00,Bountiful
+674,Specialty Bike Shop,Discount Tours,June,Road,1000000.00,NULL,100000.00,Daly City
+675,Warehouse,Bike Goods,June,Road,3000000.00,600.00,300000.00,North Miami Beach
+676,Value Added Reseller,Better Bike Shop,April,Mountain,800000.00,NULL,80000.00,Austell
+677,Specialty Bike Shop,Tire Exchange,May,Mountain,1500000.00,NULL,150000.00,Ottawa
+678,Warehouse,Vigorous Exercise Company,June,Mountain,3000000.00,NULL,300000.00,Toronto
+679,Value Added Reseller,Superb Sales and Repair,April,Road,800000.00,600.00,80000.00,Montreal
+680,Specialty Bike Shop,Racing Tours,May,Mountain,1500000.00,600.00,150000.00,Sèvres
+681,Warehouse,Showcase for Cycles,April,Road,3000000.00,NULL,300000.00,Sulzbach Taunus
+682,Value Added Reseller,Popular Bike Lines,June,Touring,800000.00,NULL,80000.00,Newcastle
+683,Specialty Bike Shop,Oils and Fluids Warehouse,May,Mountain,1500000.00,NULL,150000.00,London
+684,Warehouse,Lease-a-Bike Shop,May,Road,3000000.00,NULL,300000.00,Milford
+685,Value Added Reseller,Family Cycle Store,June,Mountain,800000.00,NULL,80000.00,Montreal
+686,Specialty Bike Shop,Finished Parts Shop,May,Mountain,1500000.00,600.00,150000.00,Suresnes
+687,Warehouse,Functional Store South,May,Mountain,3000000.00,NULL,300000.00,München
+688,Value Added Reseller,Bike Part Wholesalers,June,Touring,800000.00,NULL,80000.00,Sydney
+689,Specialty Bike Shop,Consumer Equipment,NULL,Road,1500000.00,NULL,150000.00,London
+690,Warehouse,Active Cycling,March,Road,3000000.00,600.00,300000.00,Heath
+691,Value Added Reseller,Mountain Bike Store,April,Touring,800000.00,200.00,80000.00,New Haven
+692,Specialty Bike Shop,Successful Sales Company,June,Road,1500000.00,NULL,150000.00,Tigard
+693,Warehouse,Stock Parts and Supplies,May,Touring,3000000.00,NULL,300000.00,Hillsboro
+694,Value Added Reseller,The Accessories Store,August,Road,800000.00,NULL,80000.00,Medford
+695,Specialty Bike Shop,Responsible Bike Dealers,June,Mountain,1500000.00,NULL,150000.00,Kansas City
+696,Warehouse,Roadway Supplies,February,Road,3000000.00,NULL,300000.00,Riverton
+697,Value Added Reseller,Brakes and Gears,May,Mountain,800000.00,600.00,80000.00,Tooele
+698,Specialty Bike Shop,Western Bike Supplies,April,Road,1500000.00,NULL,150000.00,Cedar City
+699,Warehouse,Sensational Discount Store,March,Road,3000000.00,NULL,300000.00,Kannapolis
+700,Value Added Reseller,Underglaze and Finish Company,May,Road,800000.00,NULL,80000.00,Charlotte
+701,Warehouse,Future Bikes,June,Road,3000000.00,600.00,300000.00,Calgary
